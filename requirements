@@ -4,4 +4,5 @@ sqlalchemy
 pydantic
 pymysql
 passlib
+cryptography
 bcrypt==4.0.1
