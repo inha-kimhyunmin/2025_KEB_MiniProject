@@ -3,6 +3,5 @@ uvicorn
 sqlalchemy
 pydantic
 pymysql
-passlib[bcrypt]
-passlib==1.7.4
+passlib
 bcrypt==4.0.1
