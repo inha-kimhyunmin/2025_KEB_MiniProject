@@ -17,3 +17,4 @@ class Payment(Base):
     date = Column(DateTime)
     merchant_name = Column(String(255))
     user = relationship("User", back_populates="payments")
+    #
